@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Chay
+# Hi there 👋 I'm Chay
 
 A Computer Science student specializing in Game Development. I enjoy delving into 2d and 3d games, keen to learn more and tackle challenges.
 
