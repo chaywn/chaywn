@@ -8,7 +8,8 @@ A Computer Science student specializing in Game Development. I enjoy delving int
 - Python
 - Unity
 - LÖVE (lua)
-<br>
+<br>  
+
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,lua,unity,flask)](https://skillicons.dev)
 
 ### And here some games I've done (also in my pins!)
