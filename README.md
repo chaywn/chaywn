@@ -14,11 +14,24 @@ A Computer Science student specializing in Game Development. I enjoy delving int
 
 ### And here some games I've done (also in my pins!)
 1. [Last Live](https://github.com/chaywn/Last-Live) (Unity)  
-   ![Last Live](https://github.com/chaywn/Last-Live/blob/4aaf0dc5436683b83e820ddc95a943c7974929b2/Screenshots/Title%20Scene_Screenshot.png)
+   <!--![Last Live](https://github.com/chaywn/Last-Live/blob/4aaf0dc5436683b83e820ddc95a943c7974929b2/Screenshots/Title%20Scene_Screenshot.png)
+   -->
+   <img src="https://your-image-url.type](https://github.com/chaywn/Last-Live/blob/4aaf0dc5436683b83e820ddc95a943c7974929b2/Screenshots/Title%20Scene_Screenshot.png" height="100">
+
+   
 3. [Talabia Chess](https://github.com/chaywn/Talabia-Chess) (Java)  
-   ![Talabia Chess](https://github.com/chaywn/Talabia-Chess/blob/2ae0d2099cc0170f42b9bc53231ccf0a81684b4d/Screenshots/piece-switch-after.png)
+   <!--![Talabia Chess](https://github.com/chaywn/Talabia-Chess/blob/2ae0d2099cc0170f42b9bc53231ccf0a81684b4d/Screenshots/piece-switch-after.png)
+   -->
+   <img src="https://github.com/chaywn/Talabia-Chess/blob/2ae0d2099cc0170f42b9bc53231ccf0a81684b4d/Screenshots/piece-switch-after.png" height="100">
+
+   
 5. [Alien Vs. Zombie](https://github.com/chaywn/Alien-vs.-Zombie) (C++)  
-   ![Alien Vs. Zombie](https://github.com/chaywn/Alien-vs.-Zombie/blob/0ecd626b8705840cb236fd91e4e0b73b2c7678a1/screenshots/game-dashboard.png)
+   <!--![Alien Vs. Zombie](https://github.com/chaywn/Alien-vs.-Zombie/blob/0ecd626b8705840cb236fd91e4e0b73b2c7678a1/screenshots/game-dashboard.png)
+   -->
+   <img src="https://github.com/chaywn/Alien-vs.-Zombie/blob/0ecd626b8705840cb236fd91e4e0b73b2c7678a1/screenshots/game-dashboard.png" height="100">
+
+
+
 
 <!--
 **chaywn/chaywn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
