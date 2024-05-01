@@ -3,6 +3,11 @@
 A Computer Science student specializing in Game Development. I enjoy delving into 2d and 3d games, keen to learn more and tackle challenges.
 
 ### Here some skills I know
+- Java
+- C/C++
+- Python
+- Unity
+- LÖVE (lua)
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,lua,unity,flask)](https://skillicons.dev)
 
 ### And here some games I've done (also in my pins!)
