@@ -1,8 +1,8 @@
-## Hi there 👋, I'm Chay (or Wen Ning)
+# Hi there 👋, I'm Chay (or Wen Ning)
 
 A Computer Science student specializing in Game Development. I enjoy delving into 2d and 3d games, keen to learn more and tackle challenges.
 
-### Here some skills I know
+## Here some skills I know
 - Java
 - C/C++
 - Python
@@ -12,7 +12,7 @@ A Computer Science student specializing in Game Development. I enjoy delving int
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,lua,unity,flask)](https://skillicons.dev)
 
-### And here some games I've done (also in my pins!)
+## And here some games I've done (also in my pins!)
 1. [Last Live](https://github.com/chaywn/Last-Live) (Unity)  
    <!--![Last Live](https://github.com/chaywn/Last-Live/blob/4aaf0dc5436683b83e820ddc95a943c7974929b2/Screenshots/Title%20Scene_Screenshot.png)
    -->
