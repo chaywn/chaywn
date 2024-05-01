@@ -13,9 +13,10 @@ A Computer Science student specializing in Game Development. I enjoy delving int
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,lua,unity,flask)](https://skillicons.dev)
 
 ### And here some games I've done (also in my pins!)
-1. [Last Live](https://github.com/chaywn/Last-Live) (Unity)
-2. [Talabia Chess](https://github.com/chaywn/Talabia-Chess) (Java)
-3. [Alien Vs. Zombie](https://github.com/chaywn/Alien-vs.-Zombie) (C++)
+1. [Last Live](https://github.com/chaywn/Last-Live) (Unity)  
+   ![Last Live](https://github.com/chaywn/Last-Live/blob/4aaf0dc5436683b83e820ddc95a943c7974929b2/Screenshots/Title%20Scene_Screenshot.png)
+3. [Talabia Chess](https://github.com/chaywn/Talabia-Chess) (Java)
+4. [Alien Vs. Zombie](https://github.com/chaywn/Alien-vs.-Zombie) (C++)
 
 <!--
 **chaywn/chaywn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
