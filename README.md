@@ -16,7 +16,7 @@ A Computer Science student specializing in Game Development. I enjoy delving int
 1. [Last Live](https://github.com/chaywn/Last-Live) (Unity)  
    <!--![Last Live](https://github.com/chaywn/Last-Live/blob/4aaf0dc5436683b83e820ddc95a943c7974929b2/Screenshots/Title%20Scene_Screenshot.png)
    -->
-   <img src="https://github.com/chaywn/Last-Live/blob/4aaf0dc5436683b83e820ddc95a943c7974929b2/Screenshots/Title%20Scene_Screenshot.png" height="300">
+   <img src="https://github.com/chaywn/Last-Live/blob/4aaf0dc5436683b83e820ddc95a943c7974929b2/Screenshots/Title%20Scene_Screenshot.png" height="270">
 
    
 3. [Talabia Chess](https://github.com/chaywn/Talabia-Chess) (Java)  
