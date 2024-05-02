@@ -30,7 +30,8 @@ A Computer Science student specializing in Game Development. I enjoy delving int
    -->
    <img src="https://github.com/chaywn/Alien-vs.-Zombie/blob/0ecd626b8705840cb236fd91e4e0b73b2c7678a1/screenshots/game-dashboard.png" height="350">
 
-
+5. [Go Boom](https://github.com/chaywn/Go-Boom) (Java)  
+   <img src="https://github.com/chaywn/Go-Boom/blob/9ae20de9c9ed7685075f62e80b7ca649406bc23e/Screenshots/game.png" height="300">
 
 
 <!--
