@@ -2,7 +2,7 @@
 
 A Computer Science student specializing in Game Development. I enjoy delving into 2d and 3d games, keen to learn more and tackle challenges.
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,py,unreal,unity,godot,robloxstudio,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,py,unreal,unity,godot,robloxstudio)](https://skillicons.dev)
 <!--
 ## Skills & Experiences
 - Java
